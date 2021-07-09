@@ -33,7 +33,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.9.1",
     "dayjs": "^1.10.5",
-    "discord-interactions": "^2.1.0",
+    "discord-interactions": "^2.3.0",
     "firebase-admin": "^9.9.0",
     "firebase-auth-lite": "^0.8.9",
     "firebase-firestore-lite": "^1.0.3",
