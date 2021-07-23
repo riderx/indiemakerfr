@@ -46,7 +46,7 @@
     "rss-parser": "^3.12.0",
     "sitemap": "^7.0.0",
     "store": "^2.0.12",
-    "stripe": "^8.154.0",
+    "stripe": "^8.165.0",
     "vue-js-modal": "^2.0.0-rc.6",
     "vue-warehouse": "^2.2.0"
   },
